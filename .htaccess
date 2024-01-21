@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^(.*)$ - [G]
+RewriteRule ^(.*)$ - [G,R=410,L]
